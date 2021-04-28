@@ -17,7 +17,7 @@ To learn & implement a Derived Attribute, Views & Triggers on a database
 
 ### Experiment Outcome
 - Understanding Derived Attribute, Views & Triggers
-- To implement a Derived Attribute using the CREATE TABLE method & SELECT method
+- To implement a Derived Attribute using different methods
 - To create, select, update & delete a View
 - To create a trigger for different events (Insert, Update, Delete)
 
